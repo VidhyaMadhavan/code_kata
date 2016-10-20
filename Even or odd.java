@@ -11,7 +11,7 @@ System.out.println("Enter a number:");
 n=Integer.parseInt(in.readLine());
 if(n%2==0)
 System.out.println(n+" number is Even");
-else
+else 
 System.out.println(n+" number is odd number");
 }
 catch(Exception e)
